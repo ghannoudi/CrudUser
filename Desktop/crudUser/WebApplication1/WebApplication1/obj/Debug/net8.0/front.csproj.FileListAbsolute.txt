@@ -1,0 +1,7 @@
+C:\Users\Chawki\Desktop\crudUser\WebApplication1\WebApplication1\obj\Debug\net8.0\front.csproj.AssemblyReference.cache
+C:\Users\Chawki\Desktop\crudUser\WebApplication1\WebApplication1\obj\Debug\net8.0\front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chawki\Desktop\crudUser\WebApplication1\WebApplication1\obj\Debug\net8.0\front.AssemblyInfoInputs.cache
+C:\Users\Chawki\Desktop\crudUser\WebApplication1\WebApplication1\obj\Debug\net8.0\front.AssemblyInfo.cs
+C:\Users\Chawki\Desktop\crudUser\WebApplication1\WebApplication1\obj\Debug\net8.0\front.csproj.CoreCompileInputs.cache
+C:\Users\Chawki\Desktop\crudUser\WebApplication1\WebApplication1\obj\Debug\net8.0\front.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chawki\Desktop\crudUser\WebApplication1\WebApplication1\obj\Debug\net8.0\front.MvcApplicationPartsAssemblyInfo.cache
