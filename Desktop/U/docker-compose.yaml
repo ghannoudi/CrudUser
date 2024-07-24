@@ -21,17 +21,13 @@ services:
       - backend
 
   db:
-    image: mcr.microsoft.com/mssql/server:2022-latest
-    user: root
-    environment:
-      - ACCEPT_EULA=Y
-      - SA_PASSWORD=YourStrong!Passw0rd
-      - MSSQL_PID=Express
+    build:
+      context: ./db
+      dockerfile: Dockerfile
     ports:
       - "1433:1433"
     volumes:
       - sqlserver_data:/var/opt/mssql
-    command: /opt/mssql/bin/sqlservr
     
 volumes:
   sqlserver_data:

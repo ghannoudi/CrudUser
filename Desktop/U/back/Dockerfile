@@ -16,7 +16,7 @@ RUN dotnet publish -c Release -o out
 
 # Use the official .NET Runtime image for the final image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
-
+  
 # Set the working directory in the container
 WORKDIR /app
 
